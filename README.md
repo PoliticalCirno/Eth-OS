@@ -1,7 +1,7 @@
 # Eth-OS
 An operating system in development.
 
-#How to contribute?
+# How to contribute?
 
 You can always clone the repository
 or Fork it to your own.
